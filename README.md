@@ -73,7 +73,7 @@ Les données sont sous forme de fichiers plats (CSV) contenant :
 
 * Les commandes augmentent pendant le week-end
 * Certains plats génèrent la majorité des revenus
-* Des plats sont peu performants et pourraient être retirés du menu
+* Des plats qui sont peu performants et pourraient être retirés du menu
 
 ---
 
@@ -98,7 +98,6 @@ jupyter notebook
 restaurant-analytics/
 |── data/
 │── notebooks/
-│── src/
 │── visuals/
 ```
 
